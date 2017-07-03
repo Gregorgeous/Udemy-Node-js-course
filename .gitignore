@@ -1,3 +1,5 @@
 node_modules
 package-lock.json
 server.log
+STEP1(Setup)
+STEP2(Middleware&Handlebars)
